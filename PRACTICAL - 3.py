@@ -23,4 +23,4 @@ if __name__ == "__main__":
     ]
     n = len(items)
     max_value = fractional_knapsack(W, items, n)
-    print(f"Maximum value in knapsack: {max_value:.2f}")
+    print(f"Maximum value in knapsack: {max_value:.2f}") 
